@@ -11,7 +11,7 @@
 
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+<p>CONNECT WITH ME:</p>
 
 </div>
 
