@@ -11,7 +11,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuanKeniti&theme=midnight-purple)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
 
 </div>
 
